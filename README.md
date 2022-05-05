@@ -1,7 +1,7 @@
 
 ## Hello!
 My name's **Aditya**. I do programming for fun. I really enjoy doing things for web. 
-Currently i'm working with different APIs.
+Currently i'm learning React.
 
 
 
