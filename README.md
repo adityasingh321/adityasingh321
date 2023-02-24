@@ -1,7 +1,7 @@
 
 ## Hello!
 My name's **Aditya**. I do programming for fun. I really enjoy doing things for web. 
-Currently i'm learning React.
+Currently i'm working on NestJs projects.
 
 
 
